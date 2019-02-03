@@ -1,0 +1,41 @@
+{
+	"name": [
+		"Justin",
+		"Miranda",
+		"Garrus",
+		"Shepard",
+		"Tali",
+		"Legion"
+	],
+	"occupation": [
+		"Sharpshooter",
+		"Commander",
+		"Editor",
+		"Representative",
+		"Journalist",
+		"Director"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this... #clickbait#! #clickbait2#; #PhonyURL#"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"occasionally",
+		"periodically"
+	],
+	"expecting": [
+		"anticipating",
+		"imaging",
+		"expecting"
+	],
+	"clickbait": [
+		"get rich quick tip"
+	],
+	"clickbait2": [
+		"Click now for this exclusive offer"
+	],
+	"PhonyURL": [
+		"www.getfatcashnow.com"
+	]
+}
